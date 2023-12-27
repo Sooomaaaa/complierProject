@@ -1,0 +1,15 @@
+E:\FCI\My_Project\compilerProject\Lexical_Analysis\Lexical_Analysis\bin\Debug\net6.0\Lexical_Analysis.exe
+E:\FCI\My_Project\compilerProject\Lexical_Analysis\Lexical_Analysis\bin\Debug\net6.0\Lexical_Analysis.deps.json
+E:\FCI\My_Project\compilerProject\Lexical_Analysis\Lexical_Analysis\bin\Debug\net6.0\Lexical_Analysis.runtimeconfig.json
+E:\FCI\My_Project\compilerProject\Lexical_Analysis\Lexical_Analysis\bin\Debug\net6.0\Lexical_Analysis.dll
+E:\FCI\My_Project\compilerProject\Lexical_Analysis\Lexical_Analysis\bin\Debug\net6.0\Lexical_Analysis.pdb
+E:\FCI\My_Project\compilerProject\Lexical_Analysis\Lexical_Analysis\obj\Debug\net6.0\Lexical_Analysis.csproj.AssemblyReference.cache
+E:\FCI\My_Project\compilerProject\Lexical_Analysis\Lexical_Analysis\obj\Debug\net6.0\Lexical_Analysis.GeneratedMSBuildEditorConfig.editorconfig
+E:\FCI\My_Project\compilerProject\Lexical_Analysis\Lexical_Analysis\obj\Debug\net6.0\Lexical_Analysis.AssemblyInfoInputs.cache
+E:\FCI\My_Project\compilerProject\Lexical_Analysis\Lexical_Analysis\obj\Debug\net6.0\Lexical_Analysis.AssemblyInfo.cs
+E:\FCI\My_Project\compilerProject\Lexical_Analysis\Lexical_Analysis\obj\Debug\net6.0\Lexical_Analysis.csproj.CoreCompileInputs.cache
+E:\FCI\My_Project\compilerProject\Lexical_Analysis\Lexical_Analysis\obj\Debug\net6.0\Lexical_Analysis.dll
+E:\FCI\My_Project\compilerProject\Lexical_Analysis\Lexical_Analysis\obj\Debug\net6.0\refint\Lexical_Analysis.dll
+E:\FCI\My_Project\compilerProject\Lexical_Analysis\Lexical_Analysis\obj\Debug\net6.0\Lexical_Analysis.pdb
+E:\FCI\My_Project\compilerProject\Lexical_Analysis\Lexical_Analysis\obj\Debug\net6.0\Lexical_Analysis.genruntimeconfig.cache
+E:\FCI\My_Project\compilerProject\Lexical_Analysis\Lexical_Analysis\obj\Debug\net6.0\ref\Lexical_Analysis.dll

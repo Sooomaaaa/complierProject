@@ -1,0 +1,8 @@
+int maximum(int x, int y) {
+        // This will compare 2 numbers
+        if (x > y)
+            return x;
+        else {
+            return y;
+        }
+    }
