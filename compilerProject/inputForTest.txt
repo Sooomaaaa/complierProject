@@ -1,0 +1,16 @@
+using System;
+
+class test
+{
+    static int function()
+    {   
+        int sum ;
+        // test token
+        for ( int i = 0 ; i < 9 ; i++)
+        {
+            sum = sum + 1;
+        }
+
+        return sum;
+    }
+}
